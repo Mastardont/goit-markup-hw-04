@@ -423,6 +423,7 @@ footer {
 
 footer > .container {
   display: flex;
+  align-items: baseline;
 }
 
 .footer-contact {
@@ -514,10 +515,6 @@ footer > .container {
 
 .footer-icon-list > li:last-child > .footer-icon-link {
   margin-right: 0;
-}
-
-.footer-icon {
-  padding-top: 12px;
 }
 
 /* Portfolio */
